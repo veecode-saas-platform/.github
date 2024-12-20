@@ -1,2 +1,0 @@
-# .github
-VeeCode SaaS Platform
